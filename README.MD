@@ -2,7 +2,9 @@
 
 *This code was made for personal use, for anything relating to the base CSS code's license please check the one of the original author.*
 
-The HTML file is only there to give you a quick way to judge the effect, it is NOT necessary for the effect.
+This is a javascript file adding a glitching effect to text that is renewed on each iteration of the animation. The file adds all the necessary CSS by itself.
+
+The HTML file is only there to give you a quick way to judge the effect, it is NOT required for the effect.
 
 
 **USAGE**
